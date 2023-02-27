@@ -1,4 +1,4 @@
-Workshop Page for proposed GI Workshop 2023. 
+Workshop Page for GI Workshop 2023. 
 
 Credits:
 	Template:
